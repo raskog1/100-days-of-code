@@ -10,13 +10,13 @@
 
 ### Day 1: October 9th, 2020
 
-##### (delete me or comment me out)
+##### JavaScript Algorithms Part 1
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through first three folders of algorithms.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I'm a little rusty with JavaScript and a little cocky at the same time. Worked through 8-9 algorithms and tried to get clever with a few of them, which ended up slowing me down in the end. However, end results were good overall.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Algorithm Repo](https://github.com/raskog1/algorithms)
 
 ### Day 2: October 10th, 2020
 
