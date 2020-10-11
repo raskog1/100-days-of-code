@@ -12,7 +12,7 @@
 
 ##### JavaScript Algorithms Part 1
 
-**Today's Progress**: Worked through first three folders of algorithms.
+**Today's Progress**: Worked through first three folders in Algorithms.
 
 **Thoughts**: I'm a little rusty with JavaScript and a little cocky at the same time. Worked through 8-9 algorithms and tried to get clever with a few of them, which ended up slowing me down in the end. However, end results were good overall.
 
@@ -20,11 +20,8 @@
 
 ### Day 2: October 10th, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed folders 4 and 5 in Algorithms.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** The algorithms are getting much harder. In particular, I got stuck on the "is-numeric" one which takes in a string and determines if it is a number. Some really ugly code there, but after looking at the solved file, I realized there isn't a simple, elegant solution. That's 8 completed algorithms today.
 
-**Link(s) to work**
-
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Algorithm Repo](https://github.com/raskog1/algorithms)
