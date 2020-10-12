@@ -33,3 +33,11 @@
 **Thoughts** Got really stuck on the first one out of the gate: "character-count". Spent about 45 minutes on that one alone, and was frustrated after solving it and looking at the suggested solution. It was something I had tried, but I kept getting an error that my key was not recognized, so I went around the problem a different way. I'm still happy with my solution, but it shows I need a lot more practice with manipulating objects. Only completed 3 algorithms today.
 
 **Link(s) to work**: [Algorithm Repo](https://github.com/raskog1/algorithms)
+
+### Day 4: October 12th, 2020
+
+**Today's Progress**: Completed folders 7, 8, and 9 in Algorithms.
+
+**Thoughts** Much smoother algorithms today. A few of them I was able to pass on my first test, which felt really good. I guess I'm getting better at writing this code and envisioning arrays in my head. I noticed a lot of the solutions are using object mapping for arrays, so I think I need to look into that more and try to understand how that works. It seems like it may be a good alternative to looping through arrays in some situations.
+
+**Link(s) to work**: [Algorithm Repo](https://github.com/raskog1/algorithms)
