@@ -38,6 +38,22 @@
 
 **Today's Progress**: Completed folders 7, 8, and 9 in Algorithms.
 
-**Thoughts** Much smoother algorithms today. A few of them I was able to pass on my first test, which felt really good. I guess I'm getting better at writing this code and envisioning arrays in my head. I noticed a lot of the solutions are using object mapping for arrays, so I think I need to look into that more and try to understand how that works. It seems like it may be a good alternative to looping through arrays in some situations.
+**Thoughts** Much smoother algorithms today. A few of them I was able to pass on my first test, which felt really good. I guess I'm getting better at writing this code and envisioning arrays in my head. I noticed a lot of the solutions are using object mapping for arrays, so I think I need to look into that more and try to understand how that works. It seems like it may be a good alternative to looping through arrays in some situations.  Completed 9 algorithms today.
+
+**Link(s) to work**: [Algorithm Repo](https://github.com/raskog1/algorithms)
+
+### Day 5: October 13th, 2020
+
+**Today's Progress**: Completed folders 10, 11, and 12 in Algorithms.
+
+**Thoughts** Decent work today, but folder 9 was a killer in terms of writing attractive code.  I was able to find solutions to each algorithm, but folder 9 solutions were clearly not best solutions, and felt quite forced.  I'm definitely getting better with array methods such as map, and sort, but I also feel like I'm looping too much and in terms of Big O, I have to find ways to loop less.  Completed 9 algorithms today.  I have two more days left of algorithms unless I get really stuck.
+
+**Link(s) to work**: [Algorithm Repo](https://github.com/raskog1/algorithms)
+
+### Day 6: October 14th, 2020
+
+**Today's Progress**: Completed folder 13, and on algorithm in folder 14 in Algorithms.
+
+**Thoughts** Wow, folder 14 is a huge leap in difficulty.  Folder 13 went okay, but then I was just floored by folder 14.  I was able to get the first one done, and although probably not as efficient as it could be, I don't have the solved solutions to that folder.  Good thing is that there's only one for loop!  Only solved 4 algorithms today, and it looks like the last 4 folders are going to be a battle.
 
 **Link(s) to work**: [Algorithm Repo](https://github.com/raskog1/algorithms)
