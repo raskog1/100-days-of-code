@@ -65,3 +65,11 @@
 **Thoughts** Decided to take a break from algorithms for a second. I had some open issues on my React Portfolio that I wanted to address. Updated the footer, the link to Study Check, fixed the home page so clicking on my name won't redirect and refresh the project list, and finally worked on the hamburger menu in mobile. That last part took most of the time, but I have it very close to how I want it to be. Right now, to make it work, I have the LinkedIn and Github links as list items within the Nav, but ideally I'd like those on the header portion instead, and always visible, even in mobile. Not bad progress.
 
 **Link(s) to work**: [React Portfolio](https://github.com/raskog1/react-portfolio)
+
+### Day 8: October 16th, 2020
+
+**Today's Progress**: Started some back end work on Renossance project.
+
+**Thoughts** Today I wanted to work on a project, so I started on back end validation and authorization for my Renossance project which I'm designing to be used in our renovation at the hotel. The Express server and MongoDB Atlas database had already been set up, so I worked on the User model, and also validation checks in the course of creating a new user. All tested and working via Postman, so up next is JWT before I get to more of the fun stuff.
+
+**Link(s) to work**: [Renossance](https://github.com/raskog1/renossance)
