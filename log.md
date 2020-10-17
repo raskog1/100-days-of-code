@@ -73,3 +73,11 @@
 **Thoughts** Today I wanted to work on a project, so I started on back end validation and authorization for my Renossance project which I'm designing to be used in our renovation at the hotel. The Express server and MongoDB Atlas database had already been set up, so I worked on the User model, and also validation checks in the course of creating a new user. All tested and working via Postman, so up next is JWT before I get to more of the fun stuff.
 
 **Link(s) to work**: [Renossance](https://github.com/raskog1/renossance)
+
+### Day 9: October 17th, 2020
+
+**Today's Progress**: Continued work on backend for Renossance project.
+
+**Thoughts** I wanted to continue with the Renossance projects, so I set up JWT today for authorization and tested all authentication routes. I mirrored this after Traversy's Udemy course on MERN, and it's my second time through it. This time around, I picked up a lot more, and can identify ways to gear things for my specific project, and I seem to understand the whole process much better. Next step is setting up routes for Location, which involves a lot of nested elements. At the end of our Project 3, I had a world of trouble accessing nested elements.
+
+**Link(s) to work**: [Renossance](https://github.com/raskog1/renossance)
