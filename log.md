@@ -81,3 +81,32 @@
 **Thoughts** I wanted to continue with the Renossance projects, so I set up JWT today for authorization and tested all authentication routes. I mirrored this after Traversy's Udemy course on MERN, and it's my second time through it. This time around, I picked up a lot more, and can identify ways to gear things for my specific project, and I seem to understand the whole process much better. Next step is setting up routes for Location, which involves a lot of nested elements. At the end of our Project 3, I had a world of trouble accessing nested elements.
 
 **Link(s) to work**: [Renossance](https://github.com/raskog1/renossance)
+
+### Day 10: October 21st, 2020
+
+**Today's Progress**: Started private project (Explore).
+
+**Thoughts** After a couple days with no electricity, so no wifi, I got electricity back to most of the house.  However, my main PC is still inoperable, so it's been difficult to code.  Today, I was able to get my laptop charged and bang out the initial back end framework for a new, private project I'm working on.  I'm having a hard time imagining the database structure, and I also need to figure out how to store images in a database, so it will be a good learning project.  We may get power back to my PC tomorrow.
+
+### Day 11: October 22nd, 2020
+
+**Today's Progress**: Tech assessment.
+
+**Thoughts** Nothing to commit today as I spent the majority of my time on a tech assessment...which did not go well at all.  Just goes to show how rusty I am at SQL.
+
+### Day 12: October 23rd, 2020
+
+**Today's Progress**: More backend work on Renossance.
+
+**Thoughts** Glad to get back into the project.  I worked on the models a bit and decided to move the room portion to a separate Schema.  Worked on and tested routes to create a new location, add (currently logged in) user to a specified location, and add rooms to a specified location.  I also tested using a Schema within a Schema, but I don't really see any difference between using that versus a string with an ID.  I might play around with that a little bit more.
+
+**Link(s) to work**: [Renossance](https://github.com/raskog1/renossance)
+
+### Day 13: October 24th, 2020
+
+**Today's Progress**: Even more backend work on Renossance.
+
+**Thoughts** Struggled a bit today as I typically do when working with arrays within objects in a database.  I keep on wanting to use Mongoose methods to work through arrays and update, but either I'm not good enough at that yet, or it just makes more sense to use JavaScript.  Anyway, after messing around for way too long with Mongoose, I threw in a simple for loop to find a tracker by name, and toggle it.  I may go back to that and refine it later...not sure how efficient that solution is.  More Mongoose review in the future to not get hung up on stuff like this.  Can now add trackers to a given room ID.  Features to follow, then maybe I'll get started on some front end stuff.
+
+**Link(s) to work**: [Renossance](https://github.com/raskog1/renossance)
+
