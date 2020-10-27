@@ -110,3 +110,11 @@
 
 **Link(s) to work**: [Renossance](https://github.com/raskog1/renossance)
 
+### Day 14: October 25th, 2020
+
+**Today's Progress**: Starting on frontend for Renossance.
+
+**Thoughts** Started the dive into Material UI today as I wanted to get some things going for the frontend.  Created the React app, and got some basics completed.  Set up a color theme based off of the Sacramento Kings official colors, played around with buttons, forms, and text-inputs with Material UI and did some reading on their color theory.  Had issues with a dark background and not being able to change the input fields to a white outline, so I have a lighter background in there for now until I figure out how to manipulate that.  Material UI looks pretty exciting...it's not just a Bootstrap knockoff.  So I'm excited to see where it goes.
+
+**Link(s) to work**: [Renossance](https://github.com/raskog1/renossance)
+
